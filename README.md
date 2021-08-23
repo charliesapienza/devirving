@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 [Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=1c3r0ck=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
