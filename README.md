@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi guys 👋
+I'm 1c3r0ck, I'm software developer and ethical hacker from the world.</br>
+
+<code></code>
+#### Donate
+MONERO:<br>
+ETHEREUM:<br>
+CARDANO:<br>
+DAI:<br>
+BITCOIN:<br>
 
 <!--
 [Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=1c3r0ck=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
