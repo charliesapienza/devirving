@@ -1,9 +1,8 @@
 ### Hi guys 👋
-I'm 1c3r0ck, I'm software developer and ethical hacker from the world.</br>
 
 <code></code>
 #### Donate
-MONERO:<br>
+MONERO:<code>656756756765765</code><br>
 ETHEREUM:<br>
 CARDANO:<br>
 DAI:<br>
