@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm noodlemaker</h1>
+<h1 align="center">Hi 👋, I'm devinrving</h1>
 <h3 align="center">A Fullstack student from EU</h3>
 
-- 📫 How to reach me **noodledev@proton.me**
+- 🔭 I’m currently working on [Try](https://try.dev)
+
+- 👨‍💻 All of my projects are available at [here](here)
+
+- 📫 How to reach me **devirving@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/devirving" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devirving" height="30" width="40" /></a>
+<a href="https://dev.to/devirving" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devirving" height="30" width="40" /></a>
+<a href="https://medium.com/@devirving" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devirving" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devirving" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devirving" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/devirving" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devirving" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
